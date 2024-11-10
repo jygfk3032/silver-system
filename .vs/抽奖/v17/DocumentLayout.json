@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u62BD\u5956\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|d:\\\u62BD\u5956\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|solutionrelative:mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|d:\\\u62BD\u5956\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|d:\\\u62BD\u5956\\application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|solutionrelative:application.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|d:\\\u62BD\u5956\\\u62BD\u5956.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48E3D396-305C-4246-BDEB-2E2A8EA5E37E}|\u62BD\u5956.vbproj|solutionrelative:\u62BD\u5956.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u62BD\u5956",
+              "DocumentMoniker": "D:\\\u62BD\u5956\\\u62BD\u5956.vbproj",
+              "RelativeDocumentMoniker": "\u62BD\u5956.vbproj",
+              "ToolTip": "D:\\\u62BD\u5956\\\u62BD\u5956.vbproj",
+              "RelativeToolTip": "\u62BD\u5956.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-04-25T01:40:12.425Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.xaml",
+              "DocumentMoniker": "D:\\\u62BD\u5956\\Application.xaml",
+              "RelativeDocumentMoniker": "Application.xaml",
+              "ToolTip": "D:\\\u62BD\u5956\\Application.xaml",
+              "RelativeToolTip": "Application.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T03:41:18.974Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "D:\\\u62BD\u5956\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "MainWindow.xaml.vb",
+              "ToolTip": "D:\\\u62BD\u5956\\MainWindow.xaml.vb",
+              "RelativeToolTip": "MainWindow.xaml.vb",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwOIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-10T03:32:51.018Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u62BD\u5956\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u62BD\u5956\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-25T13:48:26.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
